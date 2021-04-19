@@ -1,0 +1,19 @@
+{
+  "name": "smic/flocoff",
+  "type": "typo3-cms-extension",
+  "description": "Sends a FLoC opt out header in each web page response",
+  "license": "GPL-3.0",
+  "autoload": {
+    "psr-4": {
+      "Smic\\Flocoff\\": "Classes/"
+    }
+  },
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "extra": {
+    "typo3/cms": {
+      "extension-key": "flocoff"
+    }
+  }
+}
