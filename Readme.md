@@ -1,6 +1,6 @@
 # FLoC off
 
-The small extension does nothing more than to add a `Permissions-Policy: interest-cohort=()` to every
+This small TYPO3 extension does nothing more than to add a `Permissions-Policy: interest-cohort=()` to every
 HTTP response sent by your TYPO3 website.
 
 ## Why?
